@@ -1,0 +1,28 @@
+name: spotsstarsandstripes
+favicon: null
+layout_spectrum: 0.6315695659723133
+typography_spectrum: 0.29785250197164714
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.43743070401251316
+  lightness: 0.8313703862950206
+  saturation: 0.5386721878312528
+  rhythmicContrast: 0.3725878403056413
+purpose: []
